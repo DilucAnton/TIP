@@ -44,9 +44,16 @@
 ## Задаем порт через переменную
 <img width="814" height="95" alt="image" src="https://github.com/user-attachments/assets/acbd4f3b-930e-41a9-ab16-b28db6b506a5" />
 
-## Проверка
+## Проверка команд
 
 <img width="814" height="95" alt="image" src="https://github.com/user-attachments/assets/03bea78a-3048-47e5-abe9-a55cca925bf6" />
 
+
 ## Добавленный /health с JSON { "status":"ok", "time":"<RFC3339>" }
 <img width="1591" height="589" alt="image" src="https://github.com/user-attachments/assets/0bd5a757-d35b-45d8-8e9c-0a7b247d7a98" />
+
+
+## Дополнительная проверка команд
+
+<img width="692" height="465" alt="image" src="https://github.com/user-attachments/assets/5b37d09b-f0d8-4538-9b2a-5029b6621d69" />
+
