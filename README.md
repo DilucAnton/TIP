@@ -4,6 +4,9 @@
 
 <img width="811" height="540" alt="image" src="https://github.com/user-attachments/assets/42459161-e88f-49d1-9550-5b5ff46a155d" />
 
+## Версия GO
+<img width="742" height="67" alt="image" src="https://github.com/user-attachments/assets/2407f2c5-637c-4927-a97d-cf9ca9d15638" />
+
 ## Создание go.mod
 &nbsp;
 <img width="813" height="149" alt="image" src="https://github.com/user-attachments/assets/459df38d-55f4-445d-94c2-82b4cb8a762e" />
