@@ -18,7 +18,7 @@
 
 <img width="817" height="264" alt="image" src="https://github.com/user-attachments/assets/3398f37e-5eec-412e-a21c-7711930a4c4f" />
 
-Шаг 4 - реальный uuid, файл go.sum зафиксировал точные версии зависимостей
+Реальный uuid, файл go.sum зафиксировал точные версии зависимостей
 
 <img width="1434" height="279" alt="image" src="https://github.com/user-attachments/assets/8f63ca78-3e35-4cd0-9220-605a0ba9e755" />
 
@@ -31,3 +31,17 @@
 
 <img width="811" height="151" alt="image" src="https://github.com/user-attachments/assets/5a7891aa-b2e3-4eb9-b438-0d43209206ea" />
 
+
+Код стайл и базовые проверки
+
+<img width="1612" height="497" alt="image" src="https://github.com/user-attachments/assets/bfc30a99-86f0-41cf-b8a9-7e53369a4309" />
+
+Задаем порт через переменную
+<img width="814" height="95" alt="image" src="https://github.com/user-attachments/assets/acbd4f3b-930e-41a9-ab16-b28db6b506a5" />
+
+Проверка
+
+<img width="814" height="95" alt="image" src="https://github.com/user-attachments/assets/03bea78a-3048-47e5-abe9-a55cca925bf6" />
+
+Добавленный /health с JSON { "status":"ok", "time":"<RFC3339>" }
+<img width="1591" height="589" alt="image" src="https://github.com/user-attachments/assets/0bd5a757-d35b-45d8-8e9c-0a7b247d7a98" />
