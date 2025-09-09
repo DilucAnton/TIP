@@ -28,6 +28,7 @@
 
 ## Быстрая проверка
 <img width="807" height="220" alt="image" src="https://github.com/user-attachments/assets/09cf8109-98ed-43cd-bfb4-936548f2ad16" />
+
 ## Запуск через бинарник 
 
 <img width="811" height="151" alt="image" src="https://github.com/user-attachments/assets/5a7891aa-b2e3-4eb9-b438-0d43209206ea" />
